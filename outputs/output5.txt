@@ -1,0 +1,47 @@
+#Details of Objects belonging to classes listed in the diff of two heap dump snapshots.
+
+id: 4 class: Rubinius::ByteArray
+#<DumpedObject id=2 klass=#<struct Rubinius::HeapDump::Reference id=4> {}>
+#<DumpedObject id=6 klass=#<struct Rubinius::HeapDump::Reference id=4> {}>
+#<DumpedObject id=8 klass=#<struct Rubinius::HeapDump::Reference id=4> {}>
+#<DumpedObject id=10 klass=#<struct Rubinius::HeapDump::Reference id=4> {}>
+<snipped>
+.
+.
+-----------------------------------------------------------------
+id: 1974 class: Hash::Bucket
+#<DumpedObject id=9352 klass=#<struct Rubinius::HeapDump::Reference id=1974> {"@value"=>#<struct Rubinius::HeapDump::Reference id=10674>, "@next"=>#<struct Rubinius::HeapDump::Reference id=9668>, "@key"=>#<struct Rubinius::HeapDump::XSymbol id=814, data="TkCLASS">, #<struct Rubinius::HeapDump::XSymbol id=109, data="@key_hash">=>665922043, #<struct Rubinius::HeapDump::XSymbol id=105, data="@link">=>nil, #<struct Rubinius::HeapDump::XSymbol id=108, data="@state">=>#<struct Rubinius::HeapDump::Reference id=9351>}>
+<snipped>
+.
+.
+-----------------------------------------------------------------
+id: 32770 class: Time
+#<DumpedObject id=32686 klass=#<struct Rubinius::HeapDump::Reference id=32770> {"@decomposed"=>nil, "@is_gmt"=>nil, "@offset"=>nil, "@zone"=>nil}>
+#<DumpedObject id=48563 klass=#<struct Rubinius::HeapDump::Reference id=32770> {"@decomposed"=>nil, "@is_gmt"=>nil, "@offset"=>nil, "@zone"=>nil}>
+<snipped>
+.
+.
+-----------------------------------------------------------------
+id: 44659 class: Bignum
+#<DumpedObject id=44656 klass=#<struct Rubinius::HeapDump::Reference id=44659> {}>
+#<DumpedObject id=98918 klass=#<struct Rubinius::HeapDump::Reference id=44659> {}>
+#<DumpedObject id=100917 klass=#<struct Rubinius::HeapDump::Reference id=44659> {}>
+#<DumpedObject id=100921 klass=#<struct Rubinius::HeapDump::Reference id=44659> {}>
+<snipped>
+.
+.
+-----------------------------------------------------------------
+id: 86285 class: Leaky::MyData
+#<DumpedObject id=127775 klass=#<struct Rubinius::HeapDump::Reference id=86285> {#<struct Rubinius::HeapDump::XSymbol id=6902, data="@params">=>98305}>
+#<DumpedObject id=199188 klass=#<struct Rubinius::HeapDump::Reference id=86285> {#<struct Rubinius::HeapDump::XSymbol id=6902, data="@params">=>18999}>
+#<DumpedObject id=199193 klass=#<struct Rubinius::HeapDump::Reference id=86285> {#<struct Rubinius::HeapDump::XSymbol id=6902, data="@params">=>63462}>
+<snipped>
+.
+.
+-----------------------------------------------------------------
+id: 1900 class: Rubinius::MonoInlineCache
+#<DumpedObject id=1899 klass=#<struct Rubinius::HeapDump::Reference id=1900> {"@name"=>#<struct Rubinius::HeapDump::XSymbol id=75, data="call_under">, "@executable"=>#<struct Rubinius::HeapDump::Reference id=1886>, "@stored_module"=>#<struct Rubinius::HeapDump::Reference id=1901>, "@receiver_class"=>#<struct Rubinius::HeapDump::Reference id=1901>, "@method"=>#<struct Rubinius::HeapDump::Reference id=1902>}>
+<snipped>
+.
+.
+-----------------------------------------------------------------

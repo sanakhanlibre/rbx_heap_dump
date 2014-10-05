@@ -1,0 +1,810 @@
+id: 2201 class: Rubinius::Tuple
+#<Rubinius::HeapDump::DumpedObject:0x3ec>
+#<Rubinius::HeapDump::DumpedObject:0x3f0>
+#<Rubinius::HeapDump::DumpedObject:0x3f4>
+#<Rubinius::HeapDump::DumpedObject:0x3f8>
+<snipped>
+------------------------------------------------------------------
+id: 1 class: String
+#<Rubinius::HeapDump::DumpedObject:0x25cd0>
+#<Rubinius::HeapDump::DumpedObject:0x25cd4>
+#<Rubinius::HeapDump::DumpedObject:0x25cd8>
+#<Rubinius::HeapDump::DumpedObject:0x25cdc>
+#<Rubinius::HeapDump::DumpedObject:0x25ce0>
+<snipped>
+------------------------------------------------------------------
+id: 4 class: Rubinius::ByteArray
+#<Rubinius::HeapDump::DumpedObject:0x36bf0>
+#<Rubinius::HeapDump::DumpedObject:0x36bf4>
+#<Rubinius::HeapDump::DumpedObject:0x36bf8>
+#<Rubinius::HeapDump::DumpedObject:0x36bfc>
+------------------------------------------------------------------
+id: 2256 class: Rubinius::MonoInlineCache
+#<Rubinius::HeapDump::DumpedObject:0x45a7c>
+#<Rubinius::HeapDump::DumpedObject:0x45a80>
+#<Rubinius::HeapDump::DumpedObject:0x45a84>
+#<Rubinius::HeapDump::DumpedObject:0x45a88>
+------------------------------------------------------------------
+id: 2326 class: Rubinius::CallSite
+#<Rubinius::HeapDump::DumpedObject:0x5237c>
+#<Rubinius::HeapDump::DumpedObject:0x52380>
+#<Rubinius::HeapDump::DumpedObject:0x52384>
+#<Rubinius::HeapDump::DumpedObject:0x52388>
+<snipped>
+------------------------------------------------------------------
+id: 2245 class: Rubinius::MethodTable::Bucket
+#<Rubinius::HeapDump::DumpedObject:0x5e9b4>
+#<Rubinius::HeapDump::DumpedObject:0x5e9b8>
+#<Rubinius::HeapDump::DumpedObject:0x5e9bc>
+#<Rubinius::HeapDump::DumpedObject:0x5e9c0>
+<snipped>
+------------------------------------------------------------------
+id: 2324 class: Rubinius::ConstantCache
+#<Rubinius::HeapDump::DumpedObject:0x64fc8>
+#<Rubinius::HeapDump::DumpedObject:0x64fcc>
+#<Rubinius::HeapDump::DumpedObject:0x64fd0>
+#<Rubinius::HeapDump::DumpedObject:0x64fd4>
+<snipped>
+------------------------------------------------------------------
+id: 2199 class: Array
+#<Rubinius::HeapDump::DumpedObject:0x6b5d0>
+#<Rubinius::HeapDump::DumpedObject:0x6b5d4>
+#<Rubinius::HeapDump::DumpedObject:0x6b5d8>
+#<Rubinius::HeapDump::DumpedObject:0x6b5dc>
+<snipped>
+------------------------------------------------------------------
+id: 2249 class: Rubinius::CompiledCode
+#<Rubinius::HeapDump::DumpedObject:0x71ad8>
+#<Rubinius::HeapDump::DumpedObject:0x71adc>
+#<Rubinius::HeapDump::DumpedObject:0x71ae0>
+#<Rubinius::HeapDump::DumpedObject:0x71ae4>
+<snipped>
+------------------------------------------------------------------
+id: 2262 class: Rubinius::InstructionSequence
+#<Rubinius::HeapDump::DumpedObject:0x77f24>
+#<Rubinius::HeapDump::DumpedObject:0x77f28>
+#<Rubinius::HeapDump::DumpedObject:0x77f2c>
+#<Rubinius::HeapDump::DumpedObject:0x77f30>
+<snipped>
+------------------------------------------------------------------
+id: 2238 class: Rubinius::LookupTable::Bucket
+#<Rubinius::HeapDump::DumpedObject:0x7e2fc>
+#<Rubinius::HeapDump::DumpedObject:0x7e300>
+#<Rubinius::HeapDump::DumpedObject:0x7e304>
+#<Rubinius::HeapDump::DumpedObject:0x7e308>
+<snipped>
+------------------------------------------------------------------
+id: 2222 class: Rubinius::ConstantTable
+#<Rubinius::HeapDump::DumpedObject:0x83e78>
+#<Rubinius::HeapDump::DumpedObject:0x83e7c>
+#<Rubinius::HeapDump::DumpedObject:0x83e80>
+#<Rubinius::HeapDump::DumpedObject:0x83e84>
+<snipped>
+------------------------------------------------------------------
+id: 2241 class: Rubinius::MethodTable
+#<Rubinius::HeapDump::DumpedObject:0x85c7c>
+#<Rubinius::HeapDump::DumpedObject:0x85c80>
+#<Rubinius::HeapDump::DumpedObject:0x85c84>
+#<Rubinius::HeapDump::DumpedObject:0x85c88>
+<snipped>
+------------------------------------------------------------------
+id: 2220 class: WeakRef
+#<Rubinius::HeapDump::DumpedObject:0x87a80>
+#<Rubinius::HeapDump::DumpedObject:0x87a84>
+#<Rubinius::HeapDump::DumpedObject:0x87a88>
+#<Rubinius::HeapDump::DumpedObject:0x87a8c>
+<snipped>
+------------------------------------------------------------------
+id: 2280 class: Class
+#<Rubinius::HeapDump::DumpedObject:0x89868>
+#<Rubinius::HeapDump::DumpedObject:0x8986c>
+#<Rubinius::HeapDump::DumpedObject:0x89870>
+#<Rubinius::HeapDump::DumpedObject:0x89874>
+<snipped>
+------------------------------------------------------------------
+id: 2226 class: Rubinius::ConstantTable::Bucket
+#<Rubinius::HeapDump::DumpedObject:0x8b544>
+#<Rubinius::HeapDump::DumpedObject:0x8b548>
+#<Rubinius::HeapDump::DumpedObject:0x8b54c>
+#<Rubinius::HeapDump::DumpedObject:0x8b550>
+<snipped>
+------------------------------------------------------------------
+id: 6793 class: Hash::Bucket
+#<Rubinius::HeapDump::DumpedObject:0x8d1c0>
+#<Rubinius::HeapDump::DumpedObject:0x8d1c4>
+#<Rubinius::HeapDump::DumpedObject:0x8d1c8>
+#<Rubinius::HeapDump::DumpedObject:0x8d1cc>
+<snipped>
+------------------------------------------------------------------
+id: 4759 class: Gem::Version
+#<Rubinius::HeapDump::DumpedObject:0x8e910>
+#<Rubinius::HeapDump::DumpedObject:0x8e914>
+#<Rubinius::HeapDump::DumpedObject:0x8e918>
+#<Rubinius::HeapDump::DumpedObject:0x8e91c>
+<snipped>
+------------------------------------------------------------------
+id: 7303 class: Gem::Requirement
+#<Rubinius::HeapDump::DumpedObject:0x8fcb4>
+#<Rubinius::HeapDump::DumpedObject:0x8fcb8>
+#<Rubinius::HeapDump::DumpedObject:0x8fcbc>
+#<Rubinius::HeapDump::DumpedObject:0x8fcc0>
+<snipped>
+------------------------------------------------------------------
+id: 2259 class: Rubinius::ConstantScope
+#<Rubinius::HeapDump::DumpedObject:0x90d88>
+#<Rubinius::HeapDump::DumpedObject:0x90d8c>
+#<Rubinius::HeapDump::DumpedObject:0x90d90>
+#<Rubinius::HeapDump::DumpedObject:0x90d94>
+<snipped>
+------------------------------------------------------------------
+id: 2264 class: Rubinius::AccessVariable
+#<Rubinius::HeapDump::DumpedObject:0x91e44>
+#<Rubinius::HeapDump::DumpedObject:0x91e48>
+#<Rubinius::HeapDump::DumpedObject:0x91e4c>
+#<Rubinius::HeapDump::DumpedObject:0x91e50>
+<snipped>
+------------------------------------------------------------------
+id: 2818 class: Rubinius::InlineCacheEntry
+#<Rubinius::HeapDump::DumpedObject:0x92e30>
+#<Rubinius::HeapDump::DumpedObject:0x92e34>
+#<Rubinius::HeapDump::DumpedObject:0x92e38>
+#<Rubinius::HeapDump::DumpedObject:0x92e3c>
+<snipped>
+------------------------------------------------------------------
+id: 21913 class: Gem::Dependency
+#<Rubinius::HeapDump::DumpedObject:0x93d24>
+#<Rubinius::HeapDump::DumpedObject:0x93d28>
+#<Rubinius::HeapDump::DumpedObject:0x93d2c>
+#<Rubinius::HeapDump::DumpedObject:0x93d30>
+<snipped>
+------------------------------------------------------------------
+id: 2234 class: Rubinius::LookupTable
+#<Rubinius::HeapDump::DumpedObject:0x94880>
+#<Rubinius::HeapDump::DumpedObject:0x94884>
+#<Rubinius::HeapDump::DumpedObject:0x94888>
+#<Rubinius::HeapDump::DumpedObject:0x9488c>
+<snipped>
+------------------------------------------------------------------
+id: 2816 class: Rubinius::PolyInlineCache
+#<Rubinius::HeapDump::DumpedObject:0x94f84>
+#<Rubinius::HeapDump::DumpedObject:0x94f88>
+#<Rubinius::HeapDump::DumpedObject:0x94f8c>
+#<Rubinius::HeapDump::DumpedObject:0x94f90>
+<snipped>
+------------------------------------------------------------------
+id: 6790 class: Hash::State
+#<Rubinius::HeapDump::DumpedObject:0x955a4>
+#<Rubinius::HeapDump::DumpedObject:0x955a8>
+#<Rubinius::HeapDump::DumpedObject:0x955ac>
+#<Rubinius::HeapDump::DumpedObject:0x955b0>
+<snipped>
+------------------------------------------------------------------
+id: 2819 class: Hash
+#<Rubinius::HeapDump::DumpedObject:0x95ae0>
+#<Rubinius::HeapDump::DumpedObject:0x95ae4>
+#<Rubinius::HeapDump::DumpedObject:0x95ae8>
+#<Rubinius::HeapDump::DumpedObject:0x95aec>
+<snipped>
+------------------------------------------------------------------
+id: 17244 class: Time
+#<Rubinius::HeapDump::DumpedObject:0x9601c>
+#<Rubinius::HeapDump::DumpedObject:0x96020>
+#<Rubinius::HeapDump::DumpedObject:0x96024>
+#<Rubinius::HeapDump::DumpedObject:0x96028>
+<snipped>
+------------------------------------------------------------------
+id: 2454 class: Rubinius::CompactLookupTable
+#<Rubinius::HeapDump::DumpedObject:0x9646c>
+#<Rubinius::HeapDump::DumpedObject:0x96470>
+#<Rubinius::HeapDump::DumpedObject:0x96474>
+#<Rubinius::HeapDump::DumpedObject:0x96478>
+<snipped>
+------------------------------------------------------------------
+id: 7742 class: Gem::StubSpecification::StubLine
+#<Rubinius::HeapDump::DumpedObject:0x967b8>
+#<Rubinius::HeapDump::DumpedObject:0x967bc>
+#<Rubinius::HeapDump::DumpedObject:0x967c0>
+#<Rubinius::HeapDump::DumpedObject:0x967c4>
+<snipped>
+------------------------------------------------------------------
+id: 7707 class: Gem::StubSpecification
+#<Rubinius::HeapDump::DumpedObject:0x96a74>
+#<Rubinius::HeapDump::DumpedObject:0x96a78>
+#<Rubinius::HeapDump::DumpedObject:0x96a7c>
+#<Rubinius::HeapDump::DumpedObject:0x96a80>
+<snipped>
+------------------------------------------------------------------
+id: 6730 class: Gem::Specification
+#<Rubinius::HeapDump::DumpedObject:0x96d30>
+#<Rubinius::HeapDump::DumpedObject:0x96d34>
+#<Rubinius::HeapDump::DumpedObject:0x96d38>
+#<Rubinius::HeapDump::DumpedObject:0x96d3c>
+<snipped>
+------------------------------------------------------------------
+id: 4350 class: Rubinius::RespondToCache
+#<Rubinius::HeapDump::DumpedObject:0x96fec>
+#<Rubinius::HeapDump::DumpedObject:0x96ff0>
+#<Rubinius::HeapDump::DumpedObject:0x96ff4>
+#<Rubinius::HeapDump::DumpedObject:0x96ff8>
+<snipped>
+------------------------------------------------------------------
+id: 2455 class: Rubinius::CompiledCode::Script
+#<Rubinius::HeapDump::DumpedObject:0x9726c>
+#<Rubinius::HeapDump::DumpedObject:0x97270>
+#<Rubinius::HeapDump::DumpedObject:0x97274>
+#<Rubinius::HeapDump::DumpedObject:0x97278>
+<snipped>
+------------------------------------------------------------------
+id: 2469 class: Rubinius::BlockEnvironment
+#<Rubinius::HeapDump::DumpedObject:0x974b4>
+#<Rubinius::HeapDump::DumpedObject:0x974b8>
+#<Rubinius::HeapDump::DumpedObject:0x974bc>
+#<Rubinius::HeapDump::DumpedObject:0x974c0>
+<snipped>
+------------------------------------------------------------------
+id: 21626 class: Bignum
+#<Rubinius::HeapDump::DumpedObject:0x97664>
+#<Rubinius::HeapDump::DumpedObject:0x97668>
+#<Rubinius::HeapDump::DumpedObject:0x9766c>
+#<Rubinius::HeapDump::DumpedObject:0x97670>
+<snipped>
+------------------------------------------------------------------
+id: 114027 class: Rubinius::InstructionSet::OpCode
+#<Rubinius::HeapDump::DumpedObject:0x97810>
+#<Rubinius::HeapDump::DumpedObject:0x97814>
+#<Rubinius::HeapDump::DumpedObject:0x97818>
+#<Rubinius::HeapDump::DumpedObject:0x9781c>
+<snipped>
+------------------------------------------------------------------
+id: 12394 class: Rubinius::NativeFunction
+#<Rubinius::HeapDump::DumpedObject:0x979b8>
+#<Rubinius::HeapDump::DumpedObject:0x979bc>
+#<Rubinius::HeapDump::DumpedObject:0x979c0>
+#<Rubinius::HeapDump::DumpedObject:0x979c4>
+<snipped>
+------------------------------------------------------------------
+id: 99390 class: Leaky::MyData
+#<Rubinius::HeapDump::DumpedObject:0x97b60>
+#<Rubinius::HeapDump::DumpedObject:0x97b64>
+#<Rubinius::HeapDump::DumpedObject:0x97b68>
+#<Rubinius::HeapDump::DumpedObject:0x97b6c>
+<snipped>
+------------------------------------------------------------------
+id: 3430 class: Encoding
+#<Rubinius::HeapDump::DumpedObject:0x97cf4>
+#<Rubinius::HeapDump::DumpedObject:0x97cf8>
+#<Rubinius::HeapDump::DumpedObject:0x97cfc>
+#<Rubinius::HeapDump::DumpedObject:0x97d00>
+<snipped>
+------------------------------------------------------------------
+id: 7384 class: Proc
+#<Rubinius::HeapDump::DumpedObject:0x97e88>
+#<Rubinius::HeapDump::DumpedObject:0x97e8c>
+#<Rubinius::HeapDump::DumpedObject:0x97e90>
+#<Rubinius::HeapDump::DumpedObject:0x97e94>
+<snipped>
+------------------------------------------------------------------
+id: 2691 class: Float
+#<Rubinius::HeapDump::DumpedObject:0x98018>
+#<Rubinius::HeapDump::DumpedObject:0x9801c>
+#<Rubinius::HeapDump::DumpedObject:0x98020>
+#<Rubinius::HeapDump::DumpedObject:0x98024>
+<snipped>
+------------------------------------------------------------------
+id: 103041 class: IRB::SLex::Node
+#<Rubinius::HeapDump::DumpedObject:0x98170>
+#<Rubinius::HeapDump::DumpedObject:0x98174>
+#<Rubinius::HeapDump::DumpedObject:0x98178>
+#<Rubinius::HeapDump::DumpedObject:0x9817c>
+<snipped>
+------------------------------------------------------------------
+id: 2303 class: Module
+#<Rubinius::HeapDump::DumpedObject:0x982ac>
+#<Rubinius::HeapDump::DumpedObject:0x982b0>
+#<Rubinius::HeapDump::DumpedObject:0x982b4>
+#<Rubinius::HeapDump::DumpedObject:0x982b8>
+<snipped>
+------------------------------------------------------------------
+id: 3382 class: Regexp
+#<Rubinius::HeapDump::DumpedObject:0x983d8>
+#<Rubinius::HeapDump::DumpedObject:0x983dc>
+#<Rubinius::HeapDump::DumpedObject:0x983e0>
+#<Rubinius::HeapDump::DumpedObject:0x983e4>
+<snipped>
+------------------------------------------------------------------
+id: 2558 class: Rubinius::IncludedModule
+#<Rubinius::HeapDump::DumpedObject:0x984e8>
+#<Rubinius::HeapDump::DumpedObject:0x984ec>
+#<Rubinius::HeapDump::DumpedObject:0x984f0>
+#<Rubinius::HeapDump::DumpedObject:0x984f4>
+<snipped>
+------------------------------------------------------------------
+id: 4898 class: Rubinius::Alias
+#<Rubinius::HeapDump::DumpedObject:0x985f8>
+#<Rubinius::HeapDump::DumpedObject:0x985fc>
+#<Rubinius::HeapDump::DumpedObject:0x98600>
+#<Rubinius::HeapDump::DumpedObject:0x98604>
+<snipped>
+------------------------------------------------------------------
+id: 104924 class: Rubinius::ToolSets::Runtime::Compiler::LRUCache::Entry
+#<Rubinius::HeapDump::DumpedObject:0x986e8>
+#<Rubinius::HeapDump::DumpedObject:0x986ec>
+#<Rubinius::HeapDump::DumpedObject:0x986f0>
+#<Rubinius::HeapDump::DumpedObject:0x986f4>
+<snipped>
+------------------------------------------------------------------
+id: 3050 class: Rubinius::VariableScope
+#<Rubinius::HeapDump::DumpedObject:0x987bc>
+#<Rubinius::HeapDump::DumpedObject:0x987c0>
+#<Rubinius::HeapDump::DumpedObject:0x987c4>
+#<Rubinius::HeapDump::DumpedObject:0x987c8>
+<snipped>
+------------------------------------------------------------------
+id: 65509 class: Rubinius::NativeMethod
+#<Rubinius::HeapDump::DumpedObject:0x98888>
+#<Rubinius::HeapDump::DumpedObject:0x9888c>
+#<Rubinius::HeapDump::DumpedObject:0x98890>
+#<Rubinius::HeapDump::DumpedObject:0x98894>
+<snipped>
+------------------------------------------------------------------
+id: 24028 class: Method
+#<Rubinius::HeapDump::DumpedObject:0x98944>
+#<Rubinius::HeapDump::DumpedObject:0x98948>
+#<Rubinius::HeapDump::DumpedObject:0x9894c>
+#<Rubinius::HeapDump::DumpedObject:0x98950>
+<snipped>
+------------------------------------------------------------------
+id: 72078 class: Rubinius::ToolSets::Runtime::AST::Self
+#<Rubinius::HeapDump::DumpedObject:0x989ac>
+#<Rubinius::HeapDump::DumpedObject:0x989b0>
+#<Rubinius::HeapDump::DumpedObject:0x989b4>
+#<Rubinius::HeapDump::DumpedObject:0x989b8>
+<snipped>
+------------------------------------------------------------------
+id: 2446 class: Rubinius::ToolSets::Runtime::Generator::BasicBlock
+#<Rubinius::HeapDump::DumpedObject:0x98a08>
+#<Rubinius::HeapDump::DumpedObject:0x98a0c>
+#<Rubinius::HeapDump::DumpedObject:0x98a10>
+#<Rubinius::HeapDump::DumpedObject:0x98a14>
+<snipped>
+------------------------------------------------------------------
+id: 71020 class: Rubinius::ToolSets::Runtime::AST::ActualArguments
+#<Rubinius::HeapDump::DumpedObject:0x98a64>
+#<Rubinius::HeapDump::DumpedObject:0x98a68>
+#<Rubinius::HeapDump::DumpedObject:0x98a6c>
+#<Rubinius::HeapDump::DumpedObject:0x98a70>
+<snipped>
+------------------------------------------------------------------
+id: 71771 class: Rubinius::ToolSets::Runtime::AST::ArrayLiteral
+#<Rubinius::HeapDump::DumpedObject:0x98abc>
+#<Rubinius::HeapDump::DumpedObject:0x98ac0>
+#<Rubinius::HeapDump::DumpedObject:0x98ac4>
+#<Rubinius::HeapDump::DumpedObject:0x98ac8>
+<snipped>
+------------------------------------------------------------------
+id: 68485 class: Rubinius::ToolSets::Runtime::AST::SendWithArguments
+#<Rubinius::HeapDump::DumpedObject:0x98b10>
+#<Rubinius::HeapDump::DumpedObject:0x98b14>
+#<Rubinius::HeapDump::DumpedObject:0x98b18>
+#<Rubinius::HeapDump::DumpedObject:0x98b1c>
+<snipped>
+------------------------------------------------------------------
+id: 66176 class: Rubinius::ToolSets::Runtime::AST::StringLiteral
+#<Rubinius::HeapDump::DumpedObject:0x98b5c>
+#<Rubinius::HeapDump::DumpedObject:0x98b60>
+#<Rubinius::HeapDump::DumpedObject:0x98b64>
+#<Rubinius::HeapDump::DumpedObject:0x98b68>
+<snipped>
+------------------------------------------------------------------
+id: 68369 class: Rubinius::ToolSets::Runtime::AST::Block
+#<Rubinius::HeapDump::DumpedObject:0x98b98>
+#<Rubinius::HeapDump::DumpedObject:0x98b9c>
+#<Rubinius::HeapDump::DumpedObject:0x98ba0>
+#<Rubinius::HeapDump::DumpedObject:0x98ba4>
+<snipped>
+------------------------------------------------------------------
+id: 65233 class: Autoload
+#<Rubinius::HeapDump::DumpedObject:0x98bd4>
+#<Rubinius::HeapDump::DumpedObject:0x98bd8>
+#<Rubinius::HeapDump::DumpedObject:0x98bdc>
+#<Rubinius::HeapDump::DumpedObject:0x98be0>
+<snipped>
+------------------------------------------------------------------
+id: 74211 class: Rubinius::ToolSets::Runtime::AST::SymbolLiteral
+#<Rubinius::HeapDump::DumpedObject:0x98c10>
+#<Rubinius::HeapDump::DumpedObject:0x98c14>
+#<Rubinius::HeapDump::DumpedObject:0x98c18>
+#<Rubinius::HeapDump::DumpedObject:0x98c1c>
+<snipped>
+------------------------------------------------------------------
+id: 2448 class: Rubinius::ToolSets::Runtime::Generator
+#<Rubinius::HeapDump::DumpedObject:0x98c48>
+#<Rubinius::HeapDump::DumpedObject:0x98c4c>
+#<Rubinius::HeapDump::DumpedObject:0x98c50>
+#<Rubinius::HeapDump::DumpedObject:0x98c54>
+<snipped>
+------------------------------------------------------------------
+id: 30214 class: Rubinius::LRUCache::Entry
+#<Rubinius::HeapDump::DumpedObject:0x98c74>
+#<Rubinius::HeapDump::DumpedObject:0x98c78>
+#<Rubinius::HeapDump::DumpedObject:0x98c7c>
+#<Rubinius::HeapDump::DumpedObject:0x98c80>
+<snipped>
+------------------------------------------------------------------
+id: 69055 class: Rubinius::ToolSets::Runtime::Compiler::LocalReference
+#<Rubinius::HeapDump::DumpedObject:0x98ca0>
+#<Rubinius::HeapDump::DumpedObject:0x98ca4>
+#<Rubinius::HeapDump::DumpedObject:0x98ca8>
+#<Rubinius::HeapDump::DumpedObject:0x98cac>
+<snipped>
+------------------------------------------------------------------
+id: 77849 class: Rubinius::ToolSets::Runtime::AST::ConstantAccess
+#<Rubinius::HeapDump::DumpedObject:0x98cc8>
+#<Rubinius::HeapDump::DumpedObject:0x98ccc>
+#<Rubinius::HeapDump::DumpedObject:0x98cd0>
+#<Rubinius::HeapDump::DumpedObject:0x98cd4>
+<snipped>
+------------------------------------------------------------------
+id: 69220 class: Rubinius::ToolSets::Runtime::Compiler::LocalVariable
+#<Rubinius::HeapDump::DumpedObject:0x98cec>
+#<Rubinius::HeapDump::DumpedObject:0x98cf0>
+#<Rubinius::HeapDump::DumpedObject:0x98cf4>
+#<Rubinius::HeapDump::DumpedObject:0x98cf8>
+<snipped>
+------------------------------------------------------------------
+id: 70076 class: Rubinius::ToolSets::Runtime::AST::LocalVariableAccess
+#<Rubinius::HeapDump::DumpedObject:0x98d0c>
+#<Rubinius::HeapDump::DumpedObject:0x98d10>
+#<Rubinius::HeapDump::DumpedObject:0x98d14>
+#<Rubinius::HeapDump::DumpedObject:0x98d18>
+<snipped>
+------------------------------------------------------------------
+id: 68489 class: Rubinius::ToolSets::Runtime::AST::Send
+#<Rubinius::HeapDump::DumpedObject:0x98d2c>
+#<Rubinius::HeapDump::DumpedObject:0x98d30>
+#<Rubinius::HeapDump::DumpedObject:0x98d34>
+#<Rubinius::HeapDump::DumpedObject:0x98d38>
+<snipped>
+------------------------------------------------------------------
+id: 93631 class: Rubinius::ToolSets::Runtime::Compiler::Packager
+#<Rubinius::HeapDump::DumpedObject:0x98d4c>
+#<Rubinius::HeapDump::DumpedObject:0x98d50>
+#<Rubinius::HeapDump::DumpedObject:0x98d54>
+#<Rubinius::HeapDump::DumpedObject:0x98d58>
+<snipped>
+------------------------------------------------------------------
+id: 93629 class: Rubinius::ToolSets::Runtime::Compiler::Encoder
+#<Rubinius::HeapDump::DumpedObject:0x98d6c>
+#<Rubinius::HeapDump::DumpedObject:0x98d70>
+#<Rubinius::HeapDump::DumpedObject:0x98d74>
+#<Rubinius::HeapDump::DumpedObject:0x98d78>
+<snipped>
+------------------------------------------------------------------
+id: 93625 class: Rubinius::ToolSets::Runtime::Compiler::Generator
+#<Rubinius::HeapDump::DumpedObject:0x98d8c>
+#<Rubinius::HeapDump::DumpedObject:0x98d90>
+#<Rubinius::HeapDump::DumpedObject:0x98d94>
+#<Rubinius::HeapDump::DumpedObject:0x98d98>
+<snipped>
+------------------------------------------------------------------
+id: 92269 class: Rubinius::ToolSets::Runtime::Melbourne
+#<Rubinius::HeapDump::DumpedObject:0x98dac>
+#<Rubinius::HeapDump::DumpedObject:0x98db0>
+#<Rubinius::HeapDump::DumpedObject:0x98db4>
+#<Rubinius::HeapDump::DumpedObject:0x98db8>
+<snipped>
+------------------------------------------------------------------
+id: 2231 class: Object
+#<Rubinius::HeapDump::DumpedObject:0x98dcc>
+#<Rubinius::HeapDump::DumpedObject:0x98dd0>
+#<Rubinius::HeapDump::DumpedObject:0x98dd4>
+#<Rubinius::HeapDump::DumpedObject:0x98dd8>
+<snipped>
+------------------------------------------------------------------
+id: 66938 class: Rubinius::ToolSets::Runtime::AST::FormalArguments19
+#<Rubinius::HeapDump::DumpedObject:0x98dec>
+#<Rubinius::HeapDump::DumpedObject:0x98df0>
+#<Rubinius::HeapDump::DumpedObject:0x98df4>
+#<Rubinius::HeapDump::DumpedObject:0x98df8>
+<snipped>
+------------------------------------------------------------------
+id: 75680 class: Rubinius::ToolSets::Runtime::AST::EvalExpression
+#<Rubinius::HeapDump::DumpedObject:0x98e08>
+#<Rubinius::HeapDump::DumpedObject:0x98e0c>
+#<Rubinius::HeapDump::DumpedObject:0x98e10>
+#<Rubinius::HeapDump::DumpedObject:0x98e14>
+<snipped>
+------------------------------------------------------------------
+id: 93621 class: Rubinius::ToolSets::Runtime::Compiler::EvalParser
+#<Rubinius::HeapDump::DumpedObject:0x98e24>
+#<Rubinius::HeapDump::DumpedObject:0x98e28>
+#<Rubinius::HeapDump::DumpedObject:0x98e2c>
+#<Rubinius::HeapDump::DumpedObject:0x98e30>
+<snipped>
+------------------------------------------------------------------
+id: 102263 class: IRB::Inspector
+#<Rubinius::HeapDump::DumpedObject:0x98e40>
+#<Rubinius::HeapDump::DumpedObject:0x98e44>
+#<Rubinius::HeapDump::DumpedObject:0x98e48>
+#<Rubinius::HeapDump::DumpedObject:0x98e4c>
+<snipped>
+------------------------------------------------------------------
+id: 71963 class: Rubinius::ToolSets::Runtime::AST::NilLiteral
+#<Rubinius::HeapDump::DumpedObject:0x98e58>
+#<Rubinius::HeapDump::DumpedObject:0x98e5c>
+#<Rubinius::HeapDump::DumpedObject:0x98e60>
+#<Rubinius::HeapDump::DumpedObject:0x98e64>
+<snipped>
+------------------------------------------------------------------
+id: 18403 class: Thread
+#<Rubinius::HeapDump::DumpedObject:0x98e70>
+#<Rubinius::HeapDump::DumpedObject:0x98e74>
+#<Rubinius::HeapDump::DumpedObject:0x98e78>
+#<Rubinius::HeapDump::DumpedObject:0x98e7c>
+<snipped>
+------------------------------------------------------------------
+id: 30056 class: Dir::Glob::ConstantDirectory
+#<Rubinius::HeapDump::DumpedObject:0x98e88>
+#<Rubinius::HeapDump::DumpedObject:0x98e8c>
+#<Rubinius::HeapDump::DumpedObject:0x98e90>
+#<Rubinius::HeapDump::DumpedObject:0x98e94>
+<snipped>
+------------------------------------------------------------------
+id: 30058 class: Dir::Glob::RootDirectory
+#<Rubinius::HeapDump::DumpedObject:0x98ea0>
+#<Rubinius::HeapDump::DumpedObject:0x98ea4>
+#<Rubinius::HeapDump::DumpedObject:0x98ea8>
+#<Rubinius::HeapDump::DumpedObject:0x98eac>
+<snipped>
+------------------------------------------------------------------
+id: 13782 class: IO::InternalBuffer
+#<Rubinius::HeapDump::DumpedObject:0x98eb8>
+#<Rubinius::HeapDump::DumpedObject:0x98ebc>
+#<Rubinius::HeapDump::DumpedObject:0x98ec0>
+#<Rubinius::HeapDump::DumpedObject:0x98ec4>
+#<Rubinius::HeapDump::DumpedObject:0x98ec8>
+------------------------------------------------------------------
+id: 11296 class: IO
+#<Rubinius::HeapDump::DumpedObject:0x98ed0>
+#<Rubinius::HeapDump::DumpedObject:0x98ed4>
+#<Rubinius::HeapDump::DumpedObject:0x98ed8>
+#<Rubinius::HeapDump::DumpedObject:0x98edc>
+<snipped>
+------------------------------------------------------------------
+id: 12549 class: Rubinius::FFI::Pointer
+#<Rubinius::HeapDump::DumpedObject:0x98ee8>
+#<Rubinius::HeapDump::DumpedObject:0x98eec>
+#<Rubinius::HeapDump::DumpedObject:0x98ef0>
+#<Rubinius::HeapDump::DumpedObject:0x98ef4>
+<snipped>
+------------------------------------------------------------------
+id: 67063 class: Rubinius::ToolSets::Runtime::AST::Define
+#<Rubinius::HeapDump::DumpedObject:0x98f00>
+#<Rubinius::HeapDump::DumpedObject:0x98f04>
+#<Rubinius::HeapDump::DumpedObject:0x98f08>
+#<Rubinius::HeapDump::DumpedObject:0x98f0c>
+------------------------------------------------------------------
+id: 5383 class: Rubinius::Executable
+#<Rubinius::HeapDump::DumpedObject:0x98f14>
+#<Rubinius::HeapDump::DumpedObject:0x98f18>
+#<Rubinius::HeapDump::DumpedObject:0x98f1c>
+#<Rubinius::HeapDump::DumpedObject:0x98f20>
+------------------------------------------------------------------
+id: 15244 class: IRB::Notifier::LeveledNotifier
+#<Rubinius::HeapDump::DumpedObject:0x98f28>
+#<Rubinius::HeapDump::DumpedObject:0x98f2c>
+#<Rubinius::HeapDump::DumpedObject:0x98f30>
+------------------------------------------------------------------
+id: 11349 class: File::Stat
+#<Rubinius::HeapDump::DumpedObject:0x98f38>
+#<Rubinius::HeapDump::DumpedObject:0x98f3c>
+#<Rubinius::HeapDump::DumpedObject:0x98f40>
+------------------------------------------------------------------
+id: 65236 class: Rubinius::CodeLoader
+#<Rubinius::HeapDump::DumpedObject:0x98f48>
+#<Rubinius::HeapDump::DumpedObject:0x98f4c>
+#<Rubinius::HeapDump::DumpedObject:0x98f50>
+------------------------------------------------------------------
+id: 68863 class: Rubinius::ToolSets::Runtime::AST::LocalVariableAssignment
+#<Rubinius::HeapDump::DumpedObject:0x98f58>
+#<Rubinius::HeapDump::DumpedObject:0x98f5c>
+#<Rubinius::HeapDump::DumpedObject:0x98f60>
+------------------------------------------------------------------
+id: 65726 class: Rubinius::Hook
+#<Rubinius::HeapDump::DumpedObject:0x98f68>
+#<Rubinius::HeapDump::DumpedObject:0x98f6c>
+#<Rubinius::HeapDump::DumpedObject:0x98f70>
+------------------------------------------------------------------
+id: 29496 class: Dir::Glob::EntryMatch
+#<Rubinius::HeapDump::DumpedObject:0x98f78>
+#<Rubinius::HeapDump::DumpedObject:0x98f7c>
+#<Rubinius::HeapDump::DumpedObject:0x98f80>
+------------------------------------------------------------------
+id: 109235 class: Rubinius::Location
+#<Rubinius::HeapDump::DumpedObject:0x98f88>
+#<Rubinius::HeapDump::DumpedObject:0x98f8c>
+------------------------------------------------------------------
+id: 15746 class: IRB::StdioOutputMethod
+#<Rubinius::HeapDump::DumpedObject:0x98f94>
+#<Rubinius::HeapDump::DumpedObject:0x98f98>
+------------------------------------------------------------------
+id: 18718 class: MatchData
+#<Rubinius::HeapDump::DumpedObject:0x98fa0>
+#<Rubinius::HeapDump::DumpedObject:0x98fa4>
+------------------------------------------------------------------
+id: 102043 class: Binding
+#<Rubinius::HeapDump::DumpedObject:0x98fac>
+#<Rubinius::HeapDump::DumpedObject:0x98fb0>
+------------------------------------------------------------------
+id: 71731 class: Rubinius::ToolSets::Runtime::AST::SendFastNew
+#<Rubinius::HeapDump::DumpedObject:0x98fb8>
+#<Rubinius::HeapDump::DumpedObject:0x98fbc>
+------------------------------------------------------------------
+id: 79718 class: Rubinius::ToolSets::Runtime::AST::ClassScope
+#<Rubinius::HeapDump::DumpedObject:0x98fc4>
+#<Rubinius::HeapDump::DumpedObject:0x98fc8>
+------------------------------------------------------------------
+id: 78852 class: Rubinius::ToolSets::Runtime::AST::ClassName
+#<Rubinius::HeapDump::DumpedObject:0x98fd0>
+#<Rubinius::HeapDump::DumpedObject:0x98fd4>
+------------------------------------------------------------------
+id: 79736 class: Rubinius::ToolSets::Runtime::AST::Class
+#<Rubinius::HeapDump::DumpedObject:0x98fdc>
+#<Rubinius::HeapDump::DumpedObject:0x98fe0>
+------------------------------------------------------------------
+id: 4018 class: Rubinius::LoadedFeatures
+#<Rubinius::HeapDump::DumpedObject:0x98fe8>
+#<Rubinius::HeapDump::DumpedObject:0x98fec>
+------------------------------------------------------------------
+id: 29490 class: Dir::Glob::ConstantEntry
+#<Rubinius::HeapDump::DumpedObject:0x98ff4>
+#<Rubinius::HeapDump::DumpedObject:0x98ff8>
+------------------------------------------------------------------
+id: 29492 class: Dir::Glob::RecursiveDirectories
+#<Rubinius::HeapDump::DumpedObject:0x99000>
+#<Rubinius::HeapDump::DumpedObject:0x99004>
+------------------------------------------------------------------
+id: 30210 class: Rubinius::LRUCache
+#<Rubinius::HeapDump::DumpedObject:0x9900c>
+#<Rubinius::HeapDump::DumpedObject:0x99010>
+------------------------------------------------------------------
+id: 5765 class: Gem::Platform
+#<Rubinius::HeapDump::DumpedObject:0x99018>
+#<Rubinius::HeapDump::DumpedObject:0x9901c>
+------------------------------------------------------------------
+id: 4449 class: Mutex
+#<Rubinius::HeapDump::DumpedObject:0x99024>
+#<Rubinius::HeapDump::DumpedObject:0x99028>
+------------------------------------------------------------------
+id: 147641 class: IRB::Locale
+#<Rubinius::HeapDump::DumpedObject:0x99030>
+------------------------------------------------------------------
+id: 114808 class: Rubinius::Sprinter
+#<Rubinius::HeapDump::DumpedObject:0x99038>
+------------------------------------------------------------------
+id: 15242 class: IRB::Notifier::CompositeNotifier
+#<Rubinius::HeapDump::DumpedObject:0x99040>
+------------------------------------------------------------------
+id: 113925 class: Rubinius::AtomicReference
+#<Rubinius::HeapDump::DumpedObject:0x99048>
+------------------------------------------------------------------
+id: 109712 class: ThreadGroup
+#<Rubinius::HeapDump::DumpedObject:0x99050>
+------------------------------------------------------------------
+id: 104596 class: Rubinius::ToolSets::Runtime::Compiler::LRUCache
+#<Rubinius::HeapDump::DumpedObject:0x99058>
+------------------------------------------------------------------
+id: 104507 class: IRB::WorkSpace
+#<Rubinius::HeapDump::DumpedObject:0x99060>
+------------------------------------------------------------------
+id: 3192 class: IRB::Context
+#<Rubinius::HeapDump::DumpedObject:0x99068>
+------------------------------------------------------------------
+id: 15953 class: IRB::SLex
+#<Rubinius::HeapDump::DumpedObject:0x99070>
+------------------------------------------------------------------
+id: 103027 class: IRB::ReadlineInputMethod
+#<Rubinius::HeapDump::DumpedObject:0x99078>
+------------------------------------------------------------------
+id: 103013 class: RubyLex
+#<Rubinius::HeapDump::DumpedObject:0x99080>
+------------------------------------------------------------------
+id: 102828 class: IRB::Irb
+#<Rubinius::HeapDump::DumpedObject:0x99088>
+------------------------------------------------------------------
+id: 100322 class: Rubinius::Loader
+#<Rubinius::HeapDump::DumpedObject:0x99090>
+------------------------------------------------------------------
+id: 70205 class: Rubinius::ToolSets::Runtime::AST::Iter19
+#<Rubinius::HeapDump::DumpedObject:0x99098>
+------------------------------------------------------------------
+id: 73486 class: Rubinius::ToolSets::Runtime::AST::FixnumLiteral
+#<Rubinius::HeapDump::DumpedObject:0x990a0>
+------------------------------------------------------------------
+id: 76688 class: Rubinius::ToolSets::Runtime::AST::ElementAssignment
+#<Rubinius::HeapDump::DumpedObject:0x990a8>
+------------------------------------------------------------------
+id: 74287 class: Rubinius::ToolSets::Runtime::AST::HashLiteral
+#<Rubinius::HeapDump::DumpedObject:0x990b0>
+------------------------------------------------------------------
+id: 70277 class: Rubinius::ToolSets::Runtime::AST::InstanceVariableAssignment
+#<Rubinius::HeapDump::DumpedObject:0x990b8>
+------------------------------------------------------------------
+id: 77805 class: Rubinius::ToolSets::Runtime::AST::ConstantAssignment
+#<Rubinius::HeapDump::DumpedObject:0x990c0>
+------------------------------------------------------------------
+id: 93687 class: Rubinius::ToolSets::Runtime::Compiler::Writer
+#<Rubinius::HeapDump::DumpedObject:0x990c8>
+------------------------------------------------------------------
+id: 79171 class: Rubinius::ToolSets::Runtime::AST::Script
+#<Rubinius::HeapDump::DumpedObject:0x990d0>
+------------------------------------------------------------------
+id: 93977 class: Rubinius::ToolSets::Runtime::Compiler::FileParser
+#<Rubinius::HeapDump::DumpedObject:0x990d8>
+------------------------------------------------------------------
+id: 68872 class: Rubinius::ToolSets::Runtime::Compiler::EvalLocalReference
+#<Rubinius::HeapDump::DumpedObject:0x990e0>
+------------------------------------------------------------------
+id: 69121 class: Rubinius::ToolSets::Runtime::Compiler::EvalLocalVariable
+#<Rubinius::HeapDump::DumpedObject:0x990e8>
+------------------------------------------------------------------
+id: 67058 class: Rubinius::ToolSets::Runtime::AST::DefineSingletonScope
+#<Rubinius::HeapDump::DumpedObject:0x990f0>
+------------------------------------------------------------------
+id: 71071 class: Rubinius::ToolSets::Runtime::AST::SplatValue
+#<Rubinius::HeapDump::DumpedObject:0x990f8>
+------------------------------------------------------------------
+id: 71429 class: Rubinius::ToolSets::Runtime::AST::ConcatArgs
+#<Rubinius::HeapDump::DumpedObject:0x99100>
+------------------------------------------------------------------
+id: 75442 class: Rubinius::ToolSets::Runtime::AST::DefaultArguments
+#<Rubinius::HeapDump::DumpedObject:0x99108>
+------------------------------------------------------------------
+id: 80087 class: Rubinius::ToolSets::Runtime::AST::DefineSingleton
+#<Rubinius::HeapDump::DumpedObject:0x99110>
+------------------------------------------------------------------
+id: 78941 class: Rubinius::ToolSets::Runtime::AST::Alias
+#<Rubinius::HeapDump::DumpedObject:0x99118>
+------------------------------------------------------------------
+id: 79375 class: Rubinius::ToolSets::Runtime::AST::ModuleScope
+#<Rubinius::HeapDump::DumpedObject:0x99120>
+------------------------------------------------------------------
+id: 78846 class: Rubinius::ToolSets::Runtime::AST::ModuleName
+#<Rubinius::HeapDump::DumpedObject:0x99128>
+------------------------------------------------------------------
+id: 80875 class: Rubinius::ToolSets::Runtime::AST::Begin
+#<Rubinius::HeapDump::DumpedObject:0x99130>
+------------------------------------------------------------------
+id: 79574 class: Rubinius::ToolSets::Runtime::AST::Module
+#<Rubinius::HeapDump::DumpedObject:0x99138>
+------------------------------------------------------------------
+id: 17975 class: Rubinius::IdentityMap
+#<Rubinius::HeapDump::DumpedObject:0x99140>
+------------------------------------------------------------------
+id: 83476 class: Complex
+#<Rubinius::HeapDump::DumpedObject:0x99148>
+------------------------------------------------------------------
+id: 26715 class: Rubinius::EnvironmentVariables
+#<Rubinius::HeapDump::DumpedObject:0x99150>
+------------------------------------------------------------------
+id: 24443 class: Rubinius::ARGFClass
+#<Rubinius::HeapDump::DumpedObject:0x99158>
+------------------------------------------------------------------
+id: 23988 class: Rubinius::GlobalVariables
+#<Rubinius::HeapDump::DumpedObject:0x99160>
+------------------------------------------------------------------
+id: 15315 class: IRB::Notifier::NoMsgNotifier
+#<Rubinius::HeapDump::DumpedObject:0x99168>
+------------------------------------------------------------------
+id: 12937 class: Rubinius::FFI::DynamicLibrary
+#<Rubinius::HeapDump::DumpedObject:0x99170>
+------------------------------------------------------------------
+id: 11842 class: Rubinius::Configuration
+#<Rubinius::HeapDump::DumpedObject:0x99178>
+------------------------------------------------------------------
+id: 28825 class: Gem::PathSupport
+#<Rubinius::HeapDump::DumpedObject:0x99180>
+------------------------------------------------------------------
+id: 4447 class: Monitor
+#<Rubinius::HeapDump::DumpedObject:0x99188>
+------------------------------------------------------------------

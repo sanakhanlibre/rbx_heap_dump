@@ -1,0 +1,136 @@
+#Details of Objects belonging to classes listed in the diff of two heap dump snapshots.
+#In terms of Percentage of objects and the sizes they occupy
+
+Class_id:4	Class_name:Rubinius::ByteArray	Number_of_Objects:113438	Size:6175172
+
+  4348 Objects [1.000000 Percent] occupy 24 bytes each
+  3338 Objects [1.000000 Percent] occupy 28 bytes each
+  1148 Objects [0.000000 Percent] occupy 32 bytes each
+    45 Objects [1.000000 Percent] occupy 2068 bytes each
+    48 Objects [0.000000 Percent] occupy 112 bytes each
+   740 Objects [0.000000 Percent] occupy 40 bytes each
+   991 Objects [0.000000 Percent] occupy 36 bytes each
+   322 Objects [0.000000 Percent] occupy 48 bytes each
+   362 Objects [0.000000 Percent] occupy 64 bytes each
+     4 Objects [0.000000 Percent] occupy 4116 bytes each
+    60 Objects [0.000000 Percent] occupy 100 bytes each
+     1 Objects [0.000000 Percent] occupy 256 bytes each
+   366 Objects [0.000000 Percent] occupy 44 bytes each
+     1 Objects [0.000000 Percent] occupy 372 bytes each
+    13 Objects [0.000000 Percent] occupy 124 bytes each
+   253 Objects [0.000000 Percent] occupy 84 bytes each
+     4 Objects [0.000000 Percent] occupy 1044 bytes each
+    98 Objects [0.000000 Percent] occupy 96 bytes each
+     7 Objects [0.000000 Percent] occupy 180 bytes each
+   212 Objects [0.000000 Percent] occupy 60 bytes each
+    57 Objects [0.000000 Percent] occupy 104 bytes each
+   377 Objects [0.000000 Percent] occupy 108 bytes each
+ 98750 Objects [83.000000 Percent] occupy 52 bytes each
+   490 Objects [0.000000 Percent] occupy 56 bytes each
+   105 Objects [0.000000 Percent] occupy 68 bytes each
+     1 Objects [0.000000 Percent] occupy 152 bytes each
+   291 Objects [0.000000 Percent] occupy 92 bytes each
+    28 Objects [0.000000 Percent] occupy 76 bytes each
+    71 Objects [0.000000 Percent] occupy 72 bytes each
+     2 Objects [0.000000 Percent] occupy 276 bytes each
+     2 Objects [0.000000 Percent] occupy 8212 bytes each
+   570 Objects [1.000000 Percent] occupy 148 bytes each
+    16 Objects [0.000000 Percent] occupy 80 bytes each
+     2 Objects [0.000000 Percent] occupy 780 bytes each
+   130 Objects [0.000000 Percent] occupy 408 bytes each
+    18 Objects [0.000000 Percent] occupy 116 bytes each
+     3 Objects [0.000000 Percent] occupy 604 bytes each
+     4 Objects [0.000000 Percent] occupy 228 bytes each
+     5 Objects [2.000000 Percent] occupy 32788 bytes each
+    17 Objects [0.000000 Percent] occupy 88 bytes each
+     5 Objects [0.000000 Percent] occupy 252 bytes each
+     4 Objects [0.000000 Percent] occupy 136 bytes each
+     3 Objects [0.000000 Percent] occupy 292 bytes each
+     1 Objects [0.000000 Percent] occupy 352 bytes each
+     1 Objects [0.000000 Percent] occupy 260 bytes each
+     1 Objects [0.000000 Percent] occupy 196 bytes each
+     1 Objects [0.000000 Percent] occupy 316 bytes each
+     2 Objects [0.000000 Percent] occupy 368 bytes each
+     6 Objects [0.000000 Percent] occupy 200 bytes each
+     2 Objects [0.000000 Percent] occupy 1276 bytes each
+     1 Objects [0.000000 Percent] occupy 2024 bytes each
+     1 Objects [0.000000 Percent] occupy 1208 bytes each
+     1 Objects [0.000000 Percent] occupy 2888 bytes each
+     3 Objects [0.000000 Percent] occupy 1200 bytes each
+     1 Objects [0.000000 Percent] occupy 1188 bytes each
+     2 Objects [0.000000 Percent] occupy 204 bytes each
+     1 Objects [0.000000 Percent] occupy 268 bytes each
+     1 Objects [0.000000 Percent] occupy 636 bytes each
+     1 Objects [0.000000 Percent] occupy 144 bytes each
+     7 Objects [0.000000 Percent] occupy 128 bytes each
+     2 Objects [0.000000 Percent] occupy 588 bytes each
+     3 Objects [0.000000 Percent] occupy 220 bytes each
+     2 Objects [0.000000 Percent] occupy 160 bytes each
+     2 Objects [0.000000 Percent] occupy 272 bytes each
+     7 Objects [0.000000 Percent] occupy 240 bytes each
+     3 Objects [0.000000 Percent] occupy 1288 bytes each
+     1 Objects [0.000000 Percent] occupy 280 bytes each
+     2 Objects [0.000000 Percent] occupy 880 bytes each
+    10 Objects [0.000000 Percent] occupy 132 bytes each
+     2 Objects [0.000000 Percent] occupy 264 bytes each
+     2 Objects [0.000000 Percent] occupy 244 bytes each
+     2 Objects [0.000000 Percent] occupy 320 bytes each
+     1 Objects [0.000000 Percent] occupy 356 bytes each
+     1 Objects [0.000000 Percent] occupy 188 bytes each
+     4 Objects [0.000000 Percent] occupy 140 bytes each
+     9 Objects [0.000000 Percent] occupy 120 bytes each
+     2 Objects [0.000000 Percent] occupy 812 bytes each
+     3 Objects [0.000000 Percent] occupy 212 bytes each
+     2 Objects [0.000000 Percent] occupy 164 bytes each
+     2 Objects [0.000000 Percent] occupy 2112 bytes each
+     1 Objects [0.000000 Percent] occupy 544 bytes each
+     1 Objects [0.000000 Percent] occupy 324 bytes each
+     1 Objects [0.000000 Percent] occupy 9684 bytes each
+     3 Objects [0.000000 Percent] occupy 172 bytes each
+     1 Objects [0.000000 Percent] occupy 420 bytes each
+     1 Objects [0.000000 Percent] occupy 484 bytes each
+     2 Objects [0.000000 Percent] occupy 284 bytes each
+     1 Objects [0.000000 Percent] occupy 248 bytes each
+     1 Objects [0.000000 Percent] occupy 500 bytes each
+     3 Objects [0.000000 Percent] occupy 488 bytes each
+     2 Objects [0.000000 Percent] occupy 492 bytes each
+     1 Objects [0.000000 Percent] occupy 496 bytes each
+     1 Objects [0.000000 Percent] occupy 548 bytes each
+     1 Objects [0.000000 Percent] occupy 520 bytes each
+     1 Objects [0.000000 Percent] occupy 540 bytes each
+     1 Objects [0.000000 Percent] occupy 532 bytes each
+     1 Objects [0.000000 Percent] occupy 504 bytes each
+     1 Objects [0.000000 Percent] occupy 1236 bytes each
+     1 Objects [0.000000 Percent] occupy 176 bytes each
+     1 Objects [0.000000 Percent] occupy 1316 bytes each
+     1 Objects [0.000000 Percent] occupy 184 bytes each
+     1 Objects [0.000000 Percent] occupy 156 bytes each
+     1 Objects [0.000000 Percent] occupy 2412 bytes each
+     1 Objects [0.000000 Percent] occupy 2332 bytes each
+     1 Objects [0.000000 Percent] occupy 312 bytes each
+#######################################################
+
+Class_id:1974	Class_name:Hash::Bucket	Number_of_Objects:99656	Size:4384864
+
+ 99656 Objects [100.000000 Percent] occupy 44 bytes each
+#######################################################
+
+Class_id:32770	Class_name:Time	Number_of_Objects:98481	Size:4333164
+
+ 98481 Objects [100.000000 Percent] occupy 44 bytes each
+#######################################################
+
+Class_id:44659	Class_name:Bignum	Number_of_Objects:98311	Size:3539196
+
+ 98311 Objects [100.000000 Percent] occupy 36 bytes each
+#######################################################
+
+Class_id:86285	Class_name:Leaky::MyData	Number_of_Objects:98306	Size:1966120
+
+ 98306 Objects [100.000000 Percent] occupy 20 bytes each
+#######################################################
+
+Class_id:1900	Class_name:Rubinius::MonoInlineCache	Number_of_Objects:12637	Size:859316
+
+ 12637 Objects [100.000000 Percent] occupy 68 bytes each
+#######################################################

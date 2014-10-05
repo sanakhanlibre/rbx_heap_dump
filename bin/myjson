@@ -1,0 +1,49 @@
+#!/usr/bin/env rbx
+
+require "json"
+require "read_dump"
+require "heap_dump/diff"
+
+heapdump1_file = ARGV.shift
+heapdump2_file = ARGV.shift
+output = ARGV.shift
+
+File.open(output, "w") do |f|
+ $stdout.puts "Reading dumps..."
+		
+ before = Rubinius::HeapDump::Decoder.new
+ before.decode(heapdump1_file)
+
+ after = Rubinius::HeapDump::Decoder.new
+ after.decode(heapdump2_file)
+
+ histo1 = before.all_objects.histogram
+ diff = Rubinius::HeapDump::Diff.new(before, after)
+ histo2 = diff.histogram
+ @session = HeapDumpSession.session
+ $stdout.puts "Processing objects..."
+ f.puts("[")
+	
+ histo1.each_sorted do |klass, entry1|
+  id = klass.id
+  histo2.each_sorted do |name, entry2|
+   if klass.name == name && entry2.bytes > 0			
+    object = @session.decoder.objects[id]
+    cls1 = @session.decoder.objects[id].as_module
+    @instances = cls1.all_instances
+    @instances.array.each do |i| 
+     obj = {
+      id: i.id,
+      bytes: i.bytes,
+      class_id: id,
+      class: klass.name					
+     }
+     f.write JSON.generate(obj)
+     f.puts(",")
+    end 
+   end
+  end
+ end
+ f.puts "]"
+ $stdout.puts "\nDone"
+end

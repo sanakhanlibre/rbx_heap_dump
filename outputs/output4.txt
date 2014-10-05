@@ -1,0 +1,38 @@
+#Testing tried4.rb
+
+id: 2201 class: Rubinius::Tuple
+in show ref
+4
+#<DumpedObject id=2200 klass=#<struct Rubinius::HeapDump::Reference id=2201> {}>
+in show ref
+4
+#<DumpedObject id=2221 klass=#<struct Rubinius::HeapDump::Reference id=2201> {}>
+in show ref
+4
+#<DumpedObject id=2223 klass=#<struct Rubinius::HeapDump::Reference id=2201> {}>
+.
+<snipped>
+.
+-----------------------------------------------------------------
+id: 1 class: String
+in show ref
+4
+#<DumpedObject id=0 klass=#<struct Rubinius::HeapDump::Reference id=1> {"@num_bytes"=>4, "@num_chars"=>nil, "@data"=>#<struct Rubinius::HeapDump::Reference id=2>, "@hash_value"=>592870116, "@shared"=>nil, "@encoding"=>#<struct Rubinius::HeapDump::Reference id=3>, "@ascii_only"=>nil, "@valid_encoding"=>nil}>
+.
+<snipped>
+.
+-----------------------------------------------------------------
+id: 4 class: Rubinius::ByteArray
+in show ref
+4
+#<DumpedObject id=2 klass=#<struct Rubinius::HeapDump::Reference id=4> {}>
+.
+<snipped>
+.
+-----------------------------------------------------------------
+id: 2256 class: Rubinius::MonoInlineCache
+in show ref
+4
+#<DumpedObject id=2255 klass=#<struct Rubinius::HeapDump::Reference id=2256> {"@name"=>#<struct Rubinius::HeapDump::XSymbol id=37, data="<=>">, "@executable"=>#<struct Rubinius::HeapDump::Reference id=2248>, "@stored_module"=>#<struct Rubinius::HeapDump::Reference id=1>, "@receiver_class"=>#<struct Rubinius::HeapDump::Reference id=1>, "@method"=>#<struct Rubinius::HeapDump::Reference id=2257>}>
+.
+<snipped>

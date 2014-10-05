@@ -1,0 +1,97 @@
+#Details of Objects belonging to classes listed in the diff of two heap dump snapshots.
+
+Class_id:4  Class_name:Rubinius::ByteArray  Number_of_Objects:113438  Size:6175172
+
+  Object_id:     2 Bytes:24
+  Object_id:     6 Bytes:28
+  Object_id:     8 Bytes:28
+  Object_id:    10 Bytes:32
+  Object_id:    12 Bytes:28
+  Object_id:    14 Bytes:2068
+  Object_id:    16 Bytes:112
+  Object_id:    18 Bytes:40
+  Object_id:    20 Bytes:28
+  Object_id:    22 Bytes:28
+  Object_id:    24 Bytes:24
+  Object_id:    26 Bytes:36
+  Object_id:    28 Bytes:32
+  Object_id:    30 Bytes:48
+  Object_id:    32 Bytes:40
+  Object_id:    34 Bytes:64
+  Object_id:    36 Bytes:24
+  Object_id:    38 Bytes:28
+  Object_id:    40 Bytes:28
+  Object_id:    42 Bytes:28
+  Object_id:    44 Bytes:32
+  Object_id:    46 Bytes:28
+  Object_id:    48 Bytes:28
+  Object_id:    50 Bytes:28
+  Object_id:    52 Bytes:28
+  Object_id:    54 Bytes:28
+  Object_id:    56 Bytes:28
+  Object_id:    58 Bytes:28
+  Object_id:    60 Bytes:40
+  Object_id:    62 Bytes:4116
+  Object_id:    64 Bytes:100
+  <snipped>
+  .
+  .
+  #######################################################
+
+Class_id:1974 Class_name:Hash::Bucket Number_of_Objects:99656 Size:4384864
+
+  Object_id:  9352 Bytes:44
+  Object_id:  9353 Bytes:44
+  Object_id:  9355 Bytes:44
+  Object_id:  9357 Bytes:44
+  Object_id:  9359 Bytes:44
+  Object_id:  9361 Bytes:44
+  <snipped>
+  .
+  .
+  #######################################################
+
+  Class_id:32770  Class_name:Time Number_of_Objects:98481 Size:4333164
+
+  Object_id: 32686 Bytes:44
+  Object_id: 48563 Bytes:44
+  Object_id: 48727 Bytes:44
+  Object_id: 48855 Bytes:44
+  Object_id: 48990 Bytes:44
+  <snipped>
+  .
+  .
+  #######################################################
+
+  Class_id:44659  Class_name:Bignum Number_of_Objects:98311 Size:3539196
+
+  Object_id: 44656 Bytes:36
+  Object_id: 98918 Bytes:36
+  Object_id:100917 Bytes:36
+  Object_id:100921 Bytes:36
+  <snipped>
+  .
+  .
+  #######################################################
+
+  Class_id:86285  Class_name:Leaky::MyData  Number_of_Objects:98306 Size:1966120
+
+  Object_id:127775 Bytes:20
+  Object_id:199188 Bytes:20
+  Object_id:199193 Bytes:20
+  Object_id:199197 Bytes:20
+  Object_id:199202 Bytes:20
+  <snipped>
+  .
+  .
+  #######################################################
+
+  Class_id:1900 Class_name:Rubinius::MonoInlineCache  Number_of_Objects:12637 Size:859316
+
+  Object_id:  1899 Bytes:68
+  Object_id:  1917 Bytes:68
+  Object_id:  1948 Bytes:68
+  Object_id:  1957 Bytes:68
+  <snipped>
+  .
+  .
